@@ -164,7 +164,7 @@ nav .btn-menu{
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    height: 62vh;
+    height: 70vh;
     background-color: var(--black-alpha-color);
 }
 
@@ -233,7 +233,7 @@ nav .btn-menu{
 }
 
 .seminarios-container{
-    background-image: url(/assets/img/person-using-laptop.jpg);
+    background-image: url(https://images.pexels.com/photos/5908772/pexels-photo-5908772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -242,7 +242,7 @@ nav .btn-menu{
 
 .sub-container{
     width: 100%;
-    height: 50vh;
+    height: 70vh;
     background-color: var(--black-alpha-color);
     display: flex;
     flex-direction: column;
@@ -316,7 +316,7 @@ nav .btn-menu{
 
 .live-container{
     width: 100%;
-    background-image: url(/assets/img/canada.jpg);
+    background-image: url(https://u3f4h6g9.rocketcdn.me/wp-content/uploads/2019/11/Canada-Principal.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -325,7 +325,7 @@ nav .btn-menu{
 
 .live-sub-container{
     width: 100%;
-    height: 50vh;
+    height: 70vh;
     background-color: var(--black-alpha-color);
     display: flex;
     flex-direction: column;
